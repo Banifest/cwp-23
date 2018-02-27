@@ -1,0 +1,14 @@
+{
+  "name": "cwp-23",
+  "version": "1.0.0",
+  "description": "lab 23",
+  "main": "index.js",
+  "author": "banifest",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "mendeleev",
+    "mendeleev-master",
+    "mendeleev-stringify"
+  ]
+}
